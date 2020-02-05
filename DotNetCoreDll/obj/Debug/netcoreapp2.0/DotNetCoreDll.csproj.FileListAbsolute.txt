@@ -1,0 +1,15 @@
+C:\testcases\support\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\bin\Debug\netcoreapp2.0\DotNetCoreDll.deps.json
+C:\testcases\support\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\bin\Debug\netcoreapp2.0\DotNetCoreDll.dll
+C:\testcases\support\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\bin\Debug\netcoreapp2.0\DotNetCoreDll.pdb
+C:\testcases\support\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp2.0\DotNetCoreDll.csproj.CoreCompileInputs.cache
+C:\testcases\support\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp2.0\DotNetCoreDll.AssemblyInfoInputs.cache
+C:\testcases\support\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp2.0\DotNetCoreDll.AssemblyInfo.cs
+C:\testcases\support\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp2.0\DotNetCoreDll.dll
+C:\testcases\support\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp2.0\DotNetCoreDll.pdb
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\bin\Debug\netcoreapp2.0\DotNetCoreDll.deps.json
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\bin\Debug\netcoreapp2.0\DotNetCoreDll.dll
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\bin\Debug\netcoreapp2.0\DotNetCoreDll.pdb
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp2.0\DotNetCoreDll.AssemblyInfoInputs.cache
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp2.0\DotNetCoreDll.AssemblyInfo.cs
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp2.0\DotNetCoreDll.dll
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp2.0\DotNetCoreDll.pdb

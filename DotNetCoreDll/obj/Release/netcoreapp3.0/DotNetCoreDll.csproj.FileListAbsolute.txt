@@ -1,0 +1,7 @@
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\bin\Release\netcoreapp3.0\DotNetCoreDll.deps.json
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\bin\Release\netcoreapp3.0\DotNetCoreDll.dll
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\bin\Release\netcoreapp3.0\DotNetCoreDll.pdb
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Release\netcoreapp3.0\DotNetCoreDll.AssemblyInfoInputs.cache
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Release\netcoreapp3.0\DotNetCoreDll.AssemblyInfo.cs
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Release\netcoreapp3.0\DotNetCoreDll.dll
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Release\netcoreapp3.0\DotNetCoreDll.pdb

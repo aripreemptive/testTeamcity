@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DotNetCoreDll/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/DotNetCoreDll.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DotNetCoreDll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetCoreDll/1.0.0": {
+      "type": "project",
+      "path": "../DotNetCoreDll/DotNetCoreDll.csproj",
+      "msbuildProject": "../DotNetCoreDll/DotNetCoreDll.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "DotNetCoreDll >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ari Vogli\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ari Vogli\\Downloads\\from console\\DotNetCoreApp\\DotNetCoreApp.csproj",
+      "projectName": "DotNetCoreApp",
+      "projectPath": "C:\\Users\\Ari Vogli\\Downloads\\from console\\DotNetCoreApp\\DotNetCoreApp.csproj",
+      "packagesPath": "C:\\Users\\Ari Vogli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ari Vogli\\Downloads\\from console\\DotNetCoreApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Ari Vogli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\Ari Vogli\\Downloads\\from console\\DotNetCoreDll\\DotNetCoreDll.csproj": {
+              "projectPath": "C:\\Users\\Ari Vogli\\Downloads\\from console\\DotNetCoreDll\\DotNetCoreDll.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+dotfuscator.exe DotConfig.xml

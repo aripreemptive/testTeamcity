@@ -1,0 +1,15 @@
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\bin\Debug\netcoreapp3.0\DotNetCoreDll.deps.json
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\bin\Debug\netcoreapp3.0\DotNetCoreDll.dll
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\bin\Debug\netcoreapp3.0\DotNetCoreDll.pdb
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp3.0\DotNetCoreDll.AssemblyInfoInputs.cache
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp3.0\DotNetCoreDll.AssemblyInfo.cs
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp3.0\DotNetCoreDll.dll
+C:\Users\jbrawner\Desktop\SampleCode\DotNetCoreApp\DotNetCoreApp\DotNetCoreDll\obj\Debug\netcoreapp3.0\DotNetCoreDll.pdb
+C:\Users\Ari Vogli\Downloads\from console\DotNetCoreDll\bin\Debug\netcoreapp3.0\DotNetCoreDll.deps.json
+C:\Users\Ari Vogli\Downloads\from console\DotNetCoreDll\bin\Debug\netcoreapp3.0\DotNetCoreDll.dll
+C:\Users\Ari Vogli\Downloads\from console\DotNetCoreDll\bin\Debug\netcoreapp3.0\DotNetCoreDll.pdb
+C:\Users\Ari Vogli\Downloads\from console\DotNetCoreDll\obj\Debug\netcoreapp3.0\DotNetCoreDll.csprojAssemblyReference.cache
+C:\Users\Ari Vogli\Downloads\from console\DotNetCoreDll\obj\Debug\netcoreapp3.0\DotNetCoreDll.AssemblyInfoInputs.cache
+C:\Users\Ari Vogli\Downloads\from console\DotNetCoreDll\obj\Debug\netcoreapp3.0\DotNetCoreDll.AssemblyInfo.cs
+C:\Users\Ari Vogli\Downloads\from console\DotNetCoreDll\obj\Debug\netcoreapp3.0\DotNetCoreDll.dll
+C:\Users\Ari Vogli\Downloads\from console\DotNetCoreDll\obj\Debug\netcoreapp3.0\DotNetCoreDll.pdb
